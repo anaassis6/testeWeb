@@ -1,0 +1,28 @@
+table, td, th{
+    border: 2px solid darkcyan;
+}
+
+td {
+    text-align: center;
+}
+table {
+    width: 700px;
+    height: 300px;
+}
+img {
+     width: 400px;
+     height: 300px;
+}
+li {
+width: 95%;
+}
+
+.img-kernel {
+    width: 300px;
+    height: 200px;
+}
+.img-gnome {
+    width: 300px;
+    height: 200px;
+}
+
